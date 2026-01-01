@@ -1,0 +1,67 @@
+---
+interface Props {
+  podcast: {
+    id: string;
+    title: string;
+    playlistId: string;
+    description: string;
+    latestSummary: string[];
+    tags: string[];
+    lastUpdated: string;
+  };
+}
+
+const { podcast } = Astro.props;
+---
+
+<article class="w-full max-w-2xl mx-auto my-12 bg-card-bg border border-gray-800 rounded-xl overflow-hidden shadow-sm hover:shadow-cyan-900/20 transition-all duration-500">
+  <div class="p-6 md:p-8">
+    <header class="mb-6">
+      <div class="flex flex-wrap gap-2 mb-3">
+        {podcast.tags.map((tag) => (
+          <span class="px-2 py-1 text-xs font-medium text-cyan-400 bg-cyan-950/30 rounded-full border border-cyan-900/50">
+            #{tag}
+          </span>
+        ))}
+      </div>
+      <h2 class="text-2xl md:text-3xl font-bold tracking-tight text-white mb-2 leading-tight">
+        {podcast.title}
+      </h2>
+      <p class="text-gray-400 text-sm md:text-base leading-relaxed">
+        {podcast.description}
+      </p>
+    </header>
+
+    <div class="relative w-full aspect-video rounded-lg overflow-hidden bg-black mb-6 border border-gray-800 shadow-lg group">
+      <iframe
+        class="absolute top-0 left-0 w-full h-full"
+        src={`https://www.youtube.com/embed/videoseries?list=${podcast.playlistId}`}
+        title={podcast.title}
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen
+        loading="lazy"
+      ></iframe>
+    </div>
+
+    <section class="bg-dark-bg/50 rounded-lg p-5 border border-gray-800/50">
+      <h3 class="text-sm uppercase tracking-wider text-gray-500 font-bold mb-4 flex items-center gap-2">
+        <span class="w-2 h-2 rounded-full bg-green-500 animate-pulse"></span>
+        Daily Brief
+      </h3>
+      <ul class="space-y-3">
+        {podcast.latestSummary.map((item) => (
+          <li class="flex items-start gap-3 text-gray-300 transform transition-all hover:text-white">
+            <span class="text-cyan-500 mt-1.5">•</span>
+            <span class="text-sm md:text-base leading-relaxed">{item}</span>
+          </li>
+        ))}
+      </ul>
+      <div class="mt-4 pt-4 border-t border-gray-800 flex justify-end">
+        <span class="text-xs text-gray-600 font-mono">
+          Last Updated: {podcast.lastUpdated}
+        </span>
+      </div>
+    </section>
+  </div>
+</article>
