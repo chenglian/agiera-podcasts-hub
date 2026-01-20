@@ -5,13 +5,14 @@ interface Props {
     title: string;
     playlistId: string;
     description: string;
-    latestSummary: string[];
+    latestSummary: string;
     tags: string[];
     lastUpdated: string;
   };
 }
 
 const { podcast } = Astro.props;
+const summaryPoints = podcast.latestSummary.split('\n').filter(line => line.trim().length > 0);
 ---
 
 <article class="w-full max-w-2xl mx-auto my-12 bg-card-bg border border-gray-800 rounded-xl overflow-hidden shadow-sm hover:shadow-cyan-900/20 transition-all duration-500">
@@ -50,7 +51,7 @@ const { podcast } = Astro.props;
         Daily Brief
       </h3>
       <ul class="space-y-3">
-        {podcast.latestSummary.map((item) => (
+        {summaryPoints.map((item) => (
           <li class="flex items-start gap-3 text-gray-300 transform transition-all hover:text-white">
             <span class="text-cyan-500 mt-1.5">•</span>
             <span class="text-sm md:text-base leading-relaxed">{item}</span>
