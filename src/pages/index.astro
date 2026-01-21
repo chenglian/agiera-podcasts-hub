@@ -16,11 +16,6 @@ import podcasts from '../data/podcasts.json';
 			</p>
 		</header>
 
-		<!-- AdSense Placeholder -->
-		<div class="w-full max-w-2xl mx-auto h-24 mb-12 bg-gray-900/50 border border-gray-800 border-dashed rounded-lg flex items-center justify-center">
-			<span class="text-gray-600 text-sm font-mono">[AdSense Banner Space]</span>
-		</div>
-
 		<div class="space-y-8">
 			{podcasts.map((podcast) => (
 				<PodcastCard podcast={podcast} />
