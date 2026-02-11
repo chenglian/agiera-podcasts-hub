@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The Post-Market Recap for AGI Era on February 10, 2026, reported a mixed market day with a slight defensive trend. The S&P 500 dipped 0.33% to 6941.81, while the Nasdaq 100 fell 0.56% to 25127.639 and the Dow Jones rose 0.10% to 50188.14. Elevated trading volume, particularly in the S&P 500, indicated significant institutional participation.\n\nSector rotation highlighted a shift towards defensive positioning, with Utilities (XLU) surging 1.69% and Technology (XLK) declining 0.56%. This divergence suggested investor concerns regarding future economic growth and interest rate expectations. The US Dollar Index rose marginally, potentially creating headwinds for multinational corporations. Crude Oil decreased by 0.31% to $64.16.\n\nTechnology stocks experienced widespread weakness, with Nvidia, Microsoft, Apple, Alphabet, Amazon, and Meta all declining. Tesla was a notable outlier, rising 1.89%. This broad weakness, excluding Tesla, pointed to potential profit-taking or a rotation out of tech. Applovin Corp (APP) saw a significant increase in after-hours trading.\n\nLooking ahead, investors will be closely monitoring upcoming economic data releases, particularly inflation, employment, and consumer spending figures, as these are expected to drive currency movements and overall market sentiment.",
+    "latestSummary": "The script initiates a call to SerpApi, a service designed for programmatic web scraping and data extraction. It specifies a search query: “top after hours stock movers.” This indicates the user’s intent is to identify stocks experiencing significant movement outside of regular trading hours.  The script also defines a location parameter as “United States,” suggesting the search results should be focused on stocks traded within the U.S. market.  SerpApi then utilizes this structured input to perform a web search, likely accessing multiple financial news sources and stock market data providers. The resulting data, presumably containing stock names and their respective price changes, is then returned by SerpApi. The specific format of the returned data isn't detailed in this brief interaction, but it represents the outcome of the search based on the provided parameters.",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "2/10/2026"
+    "lastUpdated": "2/11/2026"
   },
   {
     "id": "geopolitical-updates",
