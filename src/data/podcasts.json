@@ -4,7 +4,7 @@
     "title": "Brush Up: The 5-Minute Daily News - AI/Tech, Biz, World",
     "playlistId": "PLGCn6qEqsSjtAEtBwkFuunnZczFZvWrWv",
     "description": "Your definitive morning intelligence download. Every day shortly after 7:00 AM EST, we bypass the noise to deliver the critical shifts in AI, Global Business, and Macroeconomics that define the modern landscape. Brush up on the news while you brush up your smile.",
-    "latestSummary": "Artificial intelligence investment is surging, with Mistral AI securing $830 million for a new data center and Rebellions raising $400 million, challenging Nvidia’s dominance in AI chips. ScaleOps received $130 million to improve Kubernetes efficiency, addressing GPU shortages. The enterprise AI agent sector is also attracting significant capital. Simultaneously, Mantis Biotech is pioneering human “digital twins” for medical research, and LiteLLM distanced itself from a security incident involving Delve.\n\nGeopolitical instability, particularly the Iran conflict, is driving up energy prices, leading to increased fuel costs for Americans and pressure on global markets. U.S. gas prices exceeded $4 a gallon, prompting JPMorgan to invest $80 billion in small businesses.\n\nInternationally, Ukraine is requesting reduced attacks on Russian energy infrastructure due to rising oil prices, while Spain closed its airspace to U.S. aircraft. Israel passed a controversial law regarding Palestinian attacks, and a humanitarian crisis continues in Sudan with widespread sexual violence. The global fuel crisis is impacting Myanmar and other nations through fuel rationing and public transport initiatives.",
+    "latestSummary": "OpenAI secured a $3 billion funding round led by Amazon, Nvidia, and SoftBank, valuing the company at $852 billion as it prepares for a potential IPO. Simultaneously, Salesforce is integrating AI into Slack with 30 new features. Cybersecurity threats remain a major concern, with a cyberattack targeting LiteLLM and North Korean hackers exploiting Axios for malware distribution.\n\nThe Federal Reserve Chair warned about unsustainable U.S. national debt, while Tesla anticipates a drop in first-quarter deliveries due to reduced EV demand. Global energy markets are easing with oil prices declining due to de-escalated Middle East conflicts.\n\nIn the Middle East, Israel intensified attacks in Lebanon, aiming to maintain control over southern Lebanon. China is attempting a diplomatic role in the Iran war. A Russian An-26 plane crashed in Crimea, killing 29, and a U.S. journalist was kidnapped in Baghdad.",
     "tags": [
       "AI",
       "AGI",
@@ -12,7 +12,7 @@
       "Market News",
       "Global News"
     ],
-    "lastUpdated": "3/31/2026"
+    "lastUpdated": "4/1/2026"
   },
   {
     "id": "overnight-market-brief",
