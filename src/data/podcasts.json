@@ -4,7 +4,7 @@
     "title": "Brush Up: The 5-Minute Daily News - AI/Tech, Biz, World",
     "playlistId": "PLGCn6qEqsSjtAEtBwkFuunnZczFZvWrWv",
     "description": "Your definitive morning intelligence download. Every day shortly after 7:00 AM EST, we bypass the noise to deliver the critical shifts in AI, Global Business, and Macroeconomics that define the modern landscape. Brush up on the news while you brush up your smile.",
-    "latestSummary": "Anthropic’s commitment to a public benefit fund and Disney’s acquisition of Character.AI signal a growing focus on social responsibility within the AI sector. Khosla Ventures’ doubling down on Even Healthcare reflects broader venture capital interest in scalable health tech solutions, aiming to disrupt traditional hospital economics in India. Benchmark Partners advise a deliberate investment approach amidst rapid market activity, while Rivian plans to integrate advanced AI into vehicle development.\n\nGlobally, tensions remain high due to reports of anti-Putin sabotage efforts and an overnight attack on oil facilities in St. Petersburg. Former President Trump’s decision to suspend sanctions further complicates the Russia conflict. France faces significant unrest following riots over cost of living issues, and a critical humanitarian situation is developing in Gaza with reduced World Food Programme aid. Additionally, Alberta, Canada, will hold a vote on separation from Canada, and EU tariffs are impacting Ukraine's steel industry.",
+    "latestSummary": "The artificial intelligence sector is experiencing explosive growth and heightened security concerns. Blackwall’s valuation soared to $2.2 billion following a $100 million investment, driven by demand for AI traffic filtering. Nscale and Anthropic are in advanced negotiations for a potential $45 billion compute deal, continuing Anthropic's aggressive hardware acquisitions against Nvidia. Amazon is challenging Nvidia with its TorchNeuron development tool, promoting diverse chip usage. Tenstorrent secured $1.5 billion to maintain independence and scale open-weight AI chips.\n\nConcerns over AI safety are intensifying; Microsoft warns of “insider threats” from frontier models, urging stringent monitoring across enterprise systems.  Hugging Face cautions against simple AI evaluators for complex safety challenges, highlighted by the recent compromise of OpenCode, exposing user API keys. New York Mayor Mamdani advocates for regulations prioritizing public protection amid growing political pressure. Apple updated its App Store guidelines to restrict “nudify” apps designed to bypass AI content moderation.\n\nGlobally, civil unrest persists with significant events including a fire at Limoges city hall in France and ongoing anti-government demonstrations in Albania. A Houthi missile strike in Yemen resulted in casualties, while the World Food Programme reduced aid to Gaza due to funding shortages.",
     "tags": [
       "AI",
       "AGI",
@@ -12,7 +12,7 @@
       "Market News",
       "Global News"
     ],
-    "lastUpdated": "10/19/2026"
+    "lastUpdated": "10/20/2026"
   },
   {
     "id": "overnight-market-brief",
