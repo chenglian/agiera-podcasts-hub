@@ -4,7 +4,7 @@
     "title": "Brush Up: The 5-Minute Daily News - AI/Tech, Biz, World",
     "playlistId": "PLGCn6qEqsSjtAEtBwkFuunnZczFZvWrWv",
     "description": "Your definitive morning intelligence download. Every day shortly after 7:00 AM EST, we bypass the noise to deliver the critical shifts in AI, Global Business, and Macroeconomics that define the modern landscape. Brush up on the news while you brush up your smile.",
-    "latestSummary": "The artificial intelligence sector is experiencing explosive growth and heightened security concerns. Blackwall’s valuation soared to $2.2 billion following a $100 million investment, driven by demand for AI traffic filtering. Nscale and Anthropic are in advanced negotiations for a potential $45 billion compute deal, continuing Anthropic's aggressive hardware acquisitions against Nvidia. Amazon is challenging Nvidia with its TorchNeuron development tool, promoting diverse chip usage. Tenstorrent secured $1.5 billion to maintain independence and scale open-weight AI chips.\n\nConcerns over AI safety are intensifying; Microsoft warns of “insider threats” from frontier models, urging stringent monitoring across enterprise systems.  Hugging Face cautions against simple AI evaluators for complex safety challenges, highlighted by the recent compromise of OpenCode, exposing user API keys. New York Mayor Mamdani advocates for regulations prioritizing public protection amid growing political pressure. Apple updated its App Store guidelines to restrict “nudify” apps designed to bypass AI content moderation.\n\nGlobally, civil unrest persists with significant events including a fire at Limoges city hall in France and ongoing anti-government demonstrations in Albania. A Houthi missile strike in Yemen resulted in casualties, while the World Food Programme reduced aid to Gaza due to funding shortages.",
+    "latestSummary": "Anthropic’s proposed AI safety bill aims to regulate advanced AI models, potentially halting deployment if harm is deemed likely. SpaceX and Tesla are exploring a mega-merger driven by SpaceX's $4.4 billion net income fueled by its AI business. Major AI firms face challenges: Anthropic struggles for cloud computing resources while preparing for an IPO, and OpenAI acquires Orchestra Bio to expand its capabilities in biotech research. The US government is removing Chinese DeepSeek AI from federal systems amid national security concerns.\n\nSpaceX’s financial success highlights the growing commercial viability of AI across industries. Anthropic's difficulties securing cloud resources reflect increasing competition among AI developers. OpenAI’s acquisition of Orchestra Bio signals a strategic move into life sciences research. Geopolitical tensions are evident in the US government’s action against DeepSeek AI and broader concerns about technological infrastructure.\n\nA humanitarian crisis unfolded in Sudan, with drone strikes resulting in over 300 deaths. The international community is investigating potential war crimes. Stephen Hubbard's release from Russia marked a diplomatic achievement. France continues to grapple with social unrest, and Australia experienced a violent attack on a Member of Parliament.",
     "tags": [
       "AI",
       "AGI",
@@ -12,7 +12,7 @@
       "Market News",
       "Global News"
     ],
-    "lastUpdated": "10/20/2026"
+    "lastUpdated": "10/21/2026"
   },
   {
     "id": "overnight-market-brief",
