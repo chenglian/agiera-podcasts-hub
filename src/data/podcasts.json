@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "Global markets experienced significant volatility on Wednesday, November 11th, following a hotter-than-expected inflation report and continued hawkish statements from the Federal Reserve. The S&P 500 and Dow Jones Industrial Average suffered substantial declines, while the Nasdaq 100 held relatively steady. Trading volume was unusually light, indicating algorithmic risk management rather than panic selling.\n\nThe 10-Year Treasury yield surged to 5.00 percent, fueling concerns about further interest rate hikes by the Fed and driving up the US Dollar Index. WTI Crude Oil prices also plummeted due to cooling demand expectations. Within the tech sector, Nvidia experienced a dramatic 13.19% drop, reflecting the impact of rising borrowing costs on high-valuation AI stocks. Despite this, other Mega-Cap tech companies like Apple and Alphabet performed relatively well.\n\nThe CBOE Volatility Index decreased sharply as market participants reduced hedging activity following the initial bond market reaction. The day’s events highlighted a shift in investor sentiment towards shorter durations and away from previously favored high-beta artificial intelligence leaders. Attention now shifts to upcoming retail earnings reports and the stability of debt markets, particularly concerning the 5 percent yield threshold.",
+    "latestSummary": "The script initiates a call to SerpApi, utilizing a JSON payload to define the search parameters. The payload contains two key-value pairs: \"Location__location_\" set to an empty string, indicating no specific location is requested; and “Search_Query__q_” populated with the search term \"top after hours stock movers earnings today 2026-11-12\". This search query directs SerpApi to retrieve information regarding top stock movers, earnings reports, and relevant news related to stocks for today’s date (November 12th, 2026). The script essentially instructs SerpApi to perform a targeted web search based on this specific set of keywords. The result of the search will be returned by SerpApi.\n",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/11/2026"
+    "lastUpdated": "11/12/2026"
   },
   {
     "id": "geopolitical-updates",
