@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The script initiates a call to SerpApi, utilizing a JSON payload to define the search parameters. The payload contains two key-value pairs: \"Location__location_\" set to an empty string, indicating no specific location is requested; and “Search_Query__q_” populated with the search term \"top after hours stock movers earnings today 2026-11-12\". This search query directs SerpApi to retrieve information regarding top stock movers, earnings reports, and relevant news related to stocks for today’s date (November 12th, 2026). The script essentially instructs SerpApi to perform a targeted web search based on this specific set of keywords. The result of the search will be returned by SerpApi.\n",
+    "latestSummary": "The script initiates a call to SerpApi, utilizing a JSON payload to define the search parameters. The primary objective is to retrieve information related to stock market movements, earnings reports, and overall market activity. Specifically, the request targets “top after hours stock movers earnings today” for the date November 13th, 2026.  The location field within the JSON remains empty, indicating a search without geographical restrictions. The script sends this structured data to SerpApi, instructing it to perform a web search based on these precise criteria. The expected output from SerpApi would be a collection of relevant results pertaining to the specified stock movements and earnings announcements as they occurred on that date.\n",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/12/2026"
+    "lastUpdated": "11/13/2026"
   },
   {
     "id": "geopolitical-updates",
