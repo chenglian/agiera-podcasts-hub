@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The Post-Market Recap for November 18, 2026, reveals a mixed performance across major indices following a volatile trading day. The Dow Jones Industrial Average experienced the largest decline, dropping 1.1% to 50,198 due to falling oil prices. The S&P 500 dipped slightly by 0.2%, ending at 7,324, while the Nasdaq 100 rose 0.4% to 27,116.\n\nA significant drop in the US 10-Year Treasury yield to 5.07% offered some relief for borrowers, and a plunge of over 4.5% in crude oil prices negatively impacted energy stocks (XLE), falling 3.3%. Conversely, technology stocks, particularly Amazon, Microsoft, and Alphabet, saw gains. Nvidia lagged behind, while Apple remained unchanged.\n\nTrading volume was subdued across the S&P 500 and Nasdaq, with higher activity observed in the Dow. The VIX index decreased by 3.5%, indicating reduced market anxiety. With no major after-hours earnings announcements scheduled for Thursday, investors will be monitoring market sentiment for potential shifts.",
+    "latestSummary": "The markets experienced a sharp downturn on Thursday, November 19th, with all major indices – S&P 500, Nasdaq 100, and Dow Jones – closing down significantly due to investor risk aversion following economic data releases. The S&P 500 fell 2%, the Nasdaq 100 dropped 2.2%, and the Dow plummeted 2.2%. Increased anxiety was reflected in a surge of the VIX, the market’s fear gauge, reaching 28.47.\n\nHeavy selling pressure impacted various sectors, particularly technology (XLK) and financials, with tech giants like Alphabet, Amazon, Meta Platforms, and Nvidia experiencing substantial declines. The bond market saw a slight dip in the US 10-Year Treasury yield to 5.05%, continuing to exert upward pressure on borrowing costs. Crude oil futures remained relatively stable.\n\nInvestors will be closely monitoring upcoming economic reports, including US GDP, initial jobless claims, and potentially inflation data, for further indications of market direction. After-hours trading was subdued with no major developments.",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/18/2026"
+    "lastUpdated": "11/19/2026"
   },
   {
     "id": "geopolitical-updates",
