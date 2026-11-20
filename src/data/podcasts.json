@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The markets experienced a sharp downturn on Thursday, November 19th, with all major indices – S&P 500, Nasdaq 100, and Dow Jones – closing down significantly due to investor risk aversion following economic data releases. The S&P 500 fell 2%, the Nasdaq 100 dropped 2.2%, and the Dow plummeted 2.2%. Increased anxiety was reflected in a surge of the VIX, the market’s fear gauge, reaching 28.47.\n\nHeavy selling pressure impacted various sectors, particularly technology (XLK) and financials, with tech giants like Alphabet, Amazon, Meta Platforms, and Nvidia experiencing substantial declines. The bond market saw a slight dip in the US 10-Year Treasury yield to 5.05%, continuing to exert upward pressure on borrowing costs. Crude oil futures remained relatively stable.\n\nInvestors will be closely monitoring upcoming economic reports, including US GDP, initial jobless claims, and potentially inflation data, for further indications of market direction. After-hours trading was subdued with no major developments.",
+    "latestSummary": "The stock market experienced a dramatic downturn on November 20, 2026, with all major U.S. indices closing sharply lower. The S&P 500 fell 3.7%, the Nasdaq 100 plummeted 5.6%, and the Dow Jones dropped 1.9%. This decline was fueled by a “flight to safety” as global bond yields decreased, prompting investors to seek safer assets. Trading volume varied across indices; heavy trading occurred in the Dow while the Nasdaq surprisingly remained quiet despite its significant drop. The CBOE Volatility Index (VIX) surged to 35.89, indicating heightened investor anxiety.\n\nThe technology sector suffered particularly severe losses, driven by an “AI rout” that led to a pullback from high-growth stocks like Nvidia and Tesla. Financials, Energy, and Utilities sectors experienced smaller declines. Crude oil prices rose slightly, while the U.S. Dollar Index remained stable. Investors are now assessing whether this was a temporary correction or the beginning of sustained market volatility. With no major after-hours earnings scheduled for the weekend, attention will shift to observing investor reactions next week.",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/19/2026"
+    "lastUpdated": "11/20/2026"
   },
   {
     "id": "geopolitical-updates",
