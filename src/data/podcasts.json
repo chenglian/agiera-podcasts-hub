@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The stock market experienced a dramatic downturn on November 20, 2026, with all major U.S. indices closing sharply lower. The S&P 500 fell 3.7%, the Nasdaq 100 plummeted 5.6%, and the Dow Jones dropped 1.9%. This decline was fueled by a “flight to safety” as global bond yields decreased, prompting investors to seek safer assets. Trading volume varied across indices; heavy trading occurred in the Dow while the Nasdaq surprisingly remained quiet despite its significant drop. The CBOE Volatility Index (VIX) surged to 35.89, indicating heightened investor anxiety.\n\nThe technology sector suffered particularly severe losses, driven by an “AI rout” that led to a pullback from high-growth stocks like Nvidia and Tesla. Financials, Energy, and Utilities sectors experienced smaller declines. Crude oil prices rose slightly, while the U.S. Dollar Index remained stable. Investors are now assessing whether this was a temporary correction or the beginning of sustained market volatility. With no major after-hours earnings scheduled for the weekend, attention will shift to observing investor reactions next week.",
+    "latestSummary": "The S&P 500, Nasdaq 100, and Dow Jones Industrial Average experienced a significant rebound on November 23, 2026, with the S&P rising 4.7%, the Nasdaq climbing 6.9%, and the Dow increasing by 3%. Investor confidence surged, particularly in the tech sector, fueled by a renewed appetite for risk. The VIX, measuring market volatility, dramatically decreased, signaling reduced investor anxiety.\n\nTechnology stocks led the rally, with Nvidia’s shares skyrocketing over 31% following CEO Jensen Huang's reinstatement. Tesla, Meta Platforms, Alphabet, and Apple also saw substantial gains. Crude oil prices declined by nearly 4.5%, potentially offering relief at the pump. The US 10-Year Treasury yield increased slightly to 4.92%.\n\nLooking ahead, investors will be monitoring the Chicago Fed National Activity Index for insights into economic conditions. Despite a strong day, market sentiment remains positive, particularly within the tech sector due to Nvidia’s performance.",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/20/2026"
+    "lastUpdated": "11/23/2026"
   },
   {
     "id": "geopolitical-updates",
