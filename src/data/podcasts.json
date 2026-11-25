@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The Post-Market Recap for November 24, 2026, presented a bifurcated market performance. The Dow Jones Industrial Average rose 0.8% to 50,019, while the Nasdaq 100 declined nearly 2% at 26,214 due to a significant drop in chip stocks, particularly Nvidia, Amazon, and Meta. Trading volume remained light, with the VIX decreasing slightly to 26.36.\n\nThe S&P 500 finished down 0.5% at 7,201 over five days. A slight dip in the 10-Year Treasury note to 4.90% offered minor relief for borrowing costs. Crude oil prices increased by 1.5%, potentially impacting consumer fuel prices.\n\nTechnology sector weakness dominated, while financials and energy sectors benefited from Dow gains and rising oil. Notable after-hours movements included significant increases in ALTG, AVAH, and CUE, alongside declines in BNAI and NBIZ. Tomorrow’s economic focus will be on the second estimate of Q3 GDP and corporate profits at 8:30 AM Eastern, along with the Personal Income and Outlays report. This recap is for informational purposes only and does not constitute financial advice.",
+    "latestSummary": "The market experienced a mixed performance on Wednesday, November 25th, 2026, with the Dow Jones Industrial Average rising 0.33% to close at 50,183 while the S&P 500 and Nasdaq 100 declined by 0.25% and 0.64%, respectively, ending at 7,183 and 26,047. Despite a late-day rally, trading volume remained light and market anxiety was reflected in a significant rise of the VIX (fear gauge) to 28.32.\n\nThe yield on the US 10-Year Treasury note decreased slightly, supporting gains in utilities and financials sectors which rose by 0.5% and 0.7%, respectively. Energy stocks surged due to rising crude oil futures. However, the technology sector, particularly the “Magnificent Seven,” experienced a decline driven by losses in Nvidia, Amazon, and Microsoft, reflecting concerns about an \"AI rout.\" Meta Platforms outperformed, while Tesla and Apple saw modest gains.\n\nFollowing the close, after-hours trading was minimal. The US stock market will be closed on Thursday for Thanksgiving. Investors await Friday’s reopening with no major earnings scheduled to impact the market significantly.",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/24/2026"
+    "lastUpdated": "11/25/2026"
   },
   {
     "id": "geopolitical-updates",
