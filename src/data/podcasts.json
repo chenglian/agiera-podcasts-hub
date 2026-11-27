@@ -33,14 +33,14 @@
     "title": "Post-market Recap",
     "playlistId": "PLGCn6qEqsSjsQB6YQo3dbb3bpyWZ0t5FC",
     "description": "Did the market \"rally into the close\" or \"fade the open\"? The Post-Market Recap goes beyond the green and red arrows to analyze the structure of the trading day. This daily briefing dissects the inter-market correlations that drove the session.\nEvery afternoon, we cover:\nMacro Causality: Connecting the dots between the 10-Year Yield, the Dollar Index, and Equities.\nTech & AI Pulse: A dedicated segment on the semiconductor ecosystem and Big Tech performance.\nMarket Breadth: Analyzing Volatility (VIX) and Sector Rotation to gauge genuine institutional sentiment.\nClosing Catalysts: Identifying the specific news and data that triggered late-day reversals.",
-    "latestSummary": "The market experienced a mixed performance on Wednesday, November 25th, 2026, with the Dow Jones Industrial Average rising 0.33% to close at 50,183 while the S&P 500 and Nasdaq 100 declined by 0.25% and 0.64%, respectively, ending at 7,183 and 26,047. Despite a late-day rally, trading volume remained light and market anxiety was reflected in a significant rise of the VIX (fear gauge) to 28.32.\n\nThe yield on the US 10-Year Treasury note decreased slightly, supporting gains in utilities and financials sectors which rose by 0.5% and 0.7%, respectively. Energy stocks surged due to rising crude oil futures. However, the technology sector, particularly the “Magnificent Seven,” experienced a decline driven by losses in Nvidia, Amazon, and Microsoft, reflecting concerns about an \"AI rout.\" Meta Platforms outperformed, while Tesla and Apple saw modest gains.\n\nFollowing the close, after-hours trading was minimal. The US stock market will be closed on Thursday for Thanksgiving. Investors await Friday’s reopening with no major earnings scheduled to impact the market significantly.",
+    "latestSummary": "Stocks experienced a remarkable surge on Friday, November 27th, 2026, marking a strong conclusion to the week for investors. The S&P 500 rose 1.6%, reaching 7,297; the Nasdaq 100 jumped 2.6% to 26,726, and the Dow Jones climbed 1.2% to 50,775. All three indices closed near their highs, fueled by strong buyer conviction. Over the past five days, the S&P 500 increased by 5.6%, the Nasdaq 100 gained 6.8%, and the Dow rose 5.5%. Trading volume remained light due to a holiday week. Investor anxiety decreased as the VIX dropped over 11% to 23.81.\n\nThe bond market saw a rise in the 10-Year Treasury yield to 4.94%, while the Technology sector, particularly Tesla, Amazon, Meta Platforms, Nvidia, Microsoft, Apple, and Alphabet, led gains. Crude oil prices dipped slightly, and the US Dollar Index strengthened. Investors will have a quiet weekend to assess this week’s performance before tomorrow's market update.",
     "tags": [
       "PostMarket",
       "Earnings",
       "TechnicalAnalysis",
       "Finance"
     ],
-    "lastUpdated": "11/25/2026"
+    "lastUpdated": "11/27/2026"
   },
   {
     "id": "geopolitical-updates",
